@@ -1,7 +1,5 @@
 ﻿namespace InteractiveBotMenu;
 
-using System;
-
 internal class Program
 {
     static void Main()
