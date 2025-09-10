@@ -22,4 +22,4 @@
 ## 📂 Запуск
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/sshhepkin/InteractiveBotMenu.git
+   git clone https://github.com/sshhepkin/SunatCarBot.git
